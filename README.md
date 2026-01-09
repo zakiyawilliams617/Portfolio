@@ -37,7 +37,7 @@ Python · Bash · PowerShell · Regex · YAML
 # Contact
 
 LinkedIn:
-[Your LinkedIn URL]  
+www.linkedin.com/in/zakiya-williams-41a0b566
 
 Email:
 zakiyawilliams617@gmail.com
