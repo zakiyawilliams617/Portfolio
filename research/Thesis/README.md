@@ -1,17 +1,17 @@
 # 🎓 Master's Thesis — Wazuh Multi-Endpoint Detection Analysis
 
 ## 📌 Research Title
-[Insert your thesis title]
+[Insert thesis title]
 
 ---
 
 ## 📖 Abstract
-(Insert your abstract here)
+(Insert abstract here)
 
 ---
 
 ## 🎯 Research Goals
-State your research questions.
+State research questions.
 
 ---
 
@@ -29,3 +29,10 @@ Add summary tables or charts.
 ---
 
 ## 🗂️ Repo Structure
+thesis/
+│── thesis.pdf
+│── README.md
+│── datasets/
+│── scripts/
+│── results/
+│── diagrams/
