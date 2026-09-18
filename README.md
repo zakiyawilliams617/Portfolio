@@ -23,6 +23,7 @@ Each project folder includes its own README with what it does, why it was built,
 ## 🎓 Larger standalone projects
 - **[aws-resource-monitor](https://github.com/zakiyawilliams617/aws-resource-monitor)** — AWS resource health monitor & auto-remediation bot (boto3, EC2/S3, CloudWatch, EventBridge).
 - **[wazuh-detection-analysis](https://github.com/zakiyawilliams617/wazuh-detection-analysis)** — SIEM/XDR detection effectiveness thesis project using Wazuh, MITRE CALDERA, and MITRE ATT&CK.
+- **[Python](https://github.com/zakiyawilliams617/Python)** — Coursework projects from a graduate Python course: REST APIs, a RAG pipeline, concurrency (Dining Philosophers), and a quantum computing simulation.
 
 ## 🧠 Key Skills
 
