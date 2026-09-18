@@ -1,43 +1,40 @@
-# Zakiya Williams — Cybersecurity & Cloud Engineering Portfolio
+# Zakiya Williams — Cloud, Security & Networking Portfolio
 
-Welcome to my technical portfolio. This space showcases my hands on work in:
+Hands-on projects across cloud engineering, networking, and scripting, built while working toward the AWS Solutions Architect – Associate certification and deepening core Cloud/DevOps fundamentals.
 
-- Security Engineering  
-- Threat Detection & Response  
-- Cloud Security  
-- Network Engineering  
-- Research & Data Analysis  
+## 📂 Sections
 
-Each project includes:
-- Architecture diagrams  
-- Attack simulations  
-- Configurations & scripts  
-- Detection logic  
-- Lessons learned  
+### 🐍 [Python / AWS](./python-aws)
+Python projects using boto3 against real AWS services — automation, monitoring, and small tools.
 
+### 🌐 [Networking](./networking)
+CCNA-aligned labs and Packet Tracer projects — routing, switching, subnetting, troubleshooting.
 
-# Portfolio Structure
+### ☁️ [AWS](./aws)
+Projects built while studying for the AWS Solutions Architect – Associate — architecture exercises, service deep-dives, small deployments.
 
+### 🖥️ [Bash](./bash)
+Shell scripting projects — automation, monitoring, and system administration tasks.
 
+Each project folder includes its own README with what it does, why it was built, architecture/diagrams where relevant, and how to run it.
 
-# Key Skills Demonstrated
+---
 
-Security Engineering:
-Wazuh · SIEM · XDR · MITRE ATT&CK · Log Analysis · Endpoint Monitoring  
+## 🎓 Larger standalone projects
+- **[aws-resource-monitor](https://github.com/zakiyawilliams617/aws-resource-monitor)** — AWS resource health monitor & auto-remediation bot (boto3, EC2/S3, CloudWatch, EventBridge).
+- **[wazuh-detection-analysis](https://github.com/zakiyawilliams617/wazuh-detection-analysis)** — SIEM/XDR detection effectiveness thesis project using Wazuh, MITRE CALDERA, and MITRE ATT&CK.
 
-Network Engineering:
-Cisco · VLANs · Routing · Firewalls · DHCP · TCP/IP · Nmap  
+## 🧠 Key Skills
 
-Cloud Security:
-IAM · Zero Trust · Network ACLs · Security Groups  
+**Security Engineering:** Wazuh · SIEM · XDR · MITRE ATT&CK · Log Analysis · Endpoint Monitoring
 
-Programming & Automation:
-Python · Bash · PowerShell · Regex · YAML  
+**Network Engineering:** Cisco · VLANs · Routing · Firewalls · DHCP · TCP/IP · Nmap
 
-# Contact
+**Cloud (AWS):** IAM · EC2 · S3 · CloudWatch · EventBridge · Zero Trust · Security Groups
 
-LinkedIn:
-www.linkedin.com/in/zakiya-williams-41a0b566
+**Programming & Automation:** Python · Bash · Regex · YAML
 
-Email:
-zakiyawilliams617@gmail.com
+## 📫 Contact
+
+**LinkedIn:** [linkedin.com/in/zakiya-williams-41a0b566](https://www.linkedin.com/in/zakiya-williams-41a0b566)
+**Email:** zakiyawilliams617@gmail.com
