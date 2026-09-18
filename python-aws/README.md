@@ -3,6 +3,5 @@
 Python projects using boto3 against real AWS services — automation, monitoring, and small tools.
 
 ## Projects
-_(none yet — add a one-line entry here as each project is completed, e.g.)_
 
-- **[project-name](./project-name)** — one-line description of what it does.
+- **[ec2-instance-auditor](./ec2-instance-auditor)** — CLI tool that audits EC2 instances for missing tags, idle CPU usage, and long-stopped instances, with console + CSV reporting.

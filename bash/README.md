@@ -2,7 +2,8 @@
 
 Shell scripting projects — automation, monitoring, and system administration tasks.
 
-## Projects
-_(none yet — add a one-line entry here as each project is completed, e.g.)_
+## Scripts
 
-- **[project-name](./project-name)** — one-line description of what it does.
+- **[disk_alert.sh](./disk_alert.sh)** — Checks disk usage and alerts when it crosses a set threshold (80%).
+- **[system_health.sh](./system_health.sh)** — Quick system health check: date, disk space, and other basic system status.
+- **[backup.sh](./backup.sh)** — Creates a timestamped tar.gz backup of a target directory.
